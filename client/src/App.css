@@ -1,0 +1,60 @@
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+
+.signup {
+  background-color: white;
+  margin: 100px 550px;
+  border-radius: 20px;
+}
+
+.heading {
+  font-size: 45px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 0px;
+}
+
+label {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+input {
+  padding: 10px 30px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.btn {
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  background-color: darkslateblue;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 18px;
+}
+
+.btn-login {
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  background-color: white;
+  color: darkslateblue;
+  border-radius: 10px;
+  cursor: pointer;
+}
